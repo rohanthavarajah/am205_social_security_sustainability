@@ -1,6 +1,3 @@
-Git repo: https://github.com/smm8ec/am205-ssmodel
-
-
 PDF of the paper (within this directory) is located at the top-level, titled: social-security-sustainability.pdf
 
 
